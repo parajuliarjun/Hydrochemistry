@@ -17,4 +17,4 @@ This repository contains my laboratory report for the module **MHSE08 Hydrochemi
 ---
 
 ### Repository Contents
-* `DE_ACID_Parajuli_Arjun(Magnodol corrected).pdf`: Complete laboratory report with raw titration data, ionic strength calculations, Tillman's constant evaluations, and water hardness classifications.
+* 📄 [DE_ACID_Parajuli_Arjun(Magnodol corrected).pdf](DE_ACID_Parajuli_Arjun(Magnodol%20corrected).pdf): Complete laboratory report with raw titration data, ionic strength calculations, Tillman's constant evaluations, and water hardness classifications.
